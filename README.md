@@ -1,2 +1,2 @@
-# React_JS-Practice
+# React.js_TypeScript_Practice
 Created with CodeSandbox
